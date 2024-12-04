@@ -188,7 +188,7 @@ class _HomePageState extends State<HomePage> {
                                             fontSize: 18),
                                       )
                                     : Text('${index + 20}');
-                              }, // check if git is working
+                              },
                             ),
                           ),
                         ],
